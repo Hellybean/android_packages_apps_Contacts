@@ -156,12 +156,12 @@ class T9Search {
 
                 if (isT9Advanced()) {
                     if (contactNicknames.containsKey(contactId) && contactNicknames.get(contactId) != null) {
-                        contactInfo.nickname = nameToNumber(contactNicknames.get(contactId));
+                        contactInfo.nickname = normalizer.convert(contactNicknames.get(contactId));
                         contactInfo.normalNickname = contactNicknames.get(contactId);
                     }
 
                     if (contactCompany.containsKey(contactId) && contactCompany.get(contactId) != null) {
-                        contactInfo.company = nameToNumber(contactCompany.get(contactId));
+                        contactInfo.company = normalizer.convert(contactCompany.get(contactId));
                         contactInfo.normalCompany = contactCompany.get(contactId);
                     }
                 }
