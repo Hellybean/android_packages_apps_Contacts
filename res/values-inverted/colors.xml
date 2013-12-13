@@ -21,17 +21,17 @@
     <color name="shortcut_overlay_text_background">#7f000000</color>
     <color name="quickcontact_list_divider">#ffcdcdcd</color>
     <color name="quickcontact_list_background">#ff000000</color>
-    <item type="color" name="quickcontact_tab_indicator">@*android:color/holo_red_light</item>
+    <item type="color" name="quickcontact_tab_indicator">@*android:color/holo_blue_light</item>
     <color name="background_primary">#ff000000</color>
     <color name="background_social_updates">#ff000000</color>
     <color name="section_header_text_color">#ffbfbfbf</color>
     <color name="detail_update_tab_text_color">#ffffffff</color>
     <color name="call_log_missed_call_highlight_color">#ffff0000</color>
-    <item type="color" name="call_log_voicemail_highlight_color">@*android:color/holo_red_light</item>
+    <item type="color" name="call_log_voicemail_highlight_color">@*android:color/holo_blue_light</item>
     <item type="color" name="voicemail_playback_ui_background">@*android:color/black</item>
     <color name="voicemail_playback_seek_bar_yet_to_play">#44ffffff</color>
     <color name="voicemail_playback_seek_bar_already_played">#ccffffff</color>
-    <item type="color" name="people_app_theme_color">@*android:color/holo_red_light</item>
+    <item type="color" name="people_app_theme_color">@*android:color/holo_blue_light</item>
     <color name="dialtacts_secondary_text_color">#ffcfcfcf</color>
     <color name="contact_count_text_color">#ffbfbfbf</color>
     <color name="detail_tab_carousel_tab_label_color">#ffeeeeee</color>
@@ -41,7 +41,7 @@
     <color name="stream_item_stripe_color">#ff555555</color>
     <color name="image_placeholder">#ffdddddd</color>
     <color name="item_selected">#660099cc</color>
-    <color name="call_stats_incoming">#ffed1212</color>
+    <color name="call_stats_incoming">#ff33b5e5</color>
     <color name="call_stats_outgoing">#ff99cc00</color>
     <color name="call_stats_missed">#ffeb1313</color>
     <color name="call_stats_bar_background">#88888888</color>
@@ -49,12 +49,12 @@
     <color name="call_log_primary_background_color">#ff000000</color>
     <color name="call_log_secondary_text_color">#ff888888</color>
     <color name="call_log_secondary_background_color">#ff333333</color>
-    <color name="call_log_header_color">#ffed1212</color>
+    <color name="call_log_header_color">#ff33b5e5</color>
     <color name="call_log_voicemail_status_background_color">#ff262626</color>
     <color name="call_log_voicemail_status_text_color">#ff888888</color>
-    <color name="call_log_voicemail_status_action_text_color">#ffed1212</color>
+    <color name="call_log_voicemail_status_action_text_color">#ff33b5e5</color>
     <color name="call_detail_background">#ff000000</color>
-    <color name="call_detail_separator">#ffed1212</color>
+    <color name="call_detail_separator">#ff33b5e5</color>
     <color name="call_detail_photo_bg">#7f000000</color>
     <color name="call_log_divider">#55ffffff</color>
     <color name="detail_tab_carousel_tab_label_Background_color">#7f000000</color>
